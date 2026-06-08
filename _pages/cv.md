@@ -102,7 +102,7 @@ I am **Dr. Tariq Ali Arain**, a researcher in **deep learning, computer vision, 
    **DOI:** [10.1016/j.imavis.2026.106014](https://doi.org/10.1016/j.imavis.2026.106014)
 
 4. **A Novel Multi-Objective Optimization Approach for Ticket Assignment in Large Data Centers**  
-   <span style="color:#b22222;"><strong>Tariq Ali Arain*</strong></span>, Sehrish Mazhar  
+   <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Sehrish Mazhar  
    *Cluster Computing* (SCI). **Accepted on 6 June 2026.**
 
 ---
@@ -140,13 +140,13 @@ I am **Dr. Tariq Ali Arain**, a researcher in **deep learning, computer vision, 
    **Role:** Second Author.
 
 10. **Beyond Benchmark Accuracy: A Robustness-Oriented Review of Occluded Person Re-Identification Under Structured Uncertainty**  
-   Sehrish Mazhar, <span style="color:#b22222;"><strong>Tariq Ali Arain*</strong></span>, Benish Mazhar  
+   Sehrish Mazhar, <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Benish Mazhar  
    *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)* (IEEE, SCIE).  
    **Status:** Under peer review. Submitted 7 April 2026.  
    **Role:** Corresponding Author.
 
 11. **Occlusion-Disentangled Gated Attention Network for Person Re-Identification in Smart Surveillance Systems**  
-   <span style="color:#b22222;"><strong>Tariq Ali Arain*</strong></span>, Sehrish Mazhar  
+   <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Sehrish Mazhar  
    *Information Fusion* (Elsevier, SCIE).  
    **Status:** Under peer review. Submitted May 2026.  
    **Role:** Corresponding Author.
