@@ -93,33 +93,52 @@ I am **Dr. Tariq Ali Arain**, a researcher in **deep learning, computer vision, 
    *International Journal of Pattern Recognition and Artificial Intelligence*.
 
 3. **FocusReID: Densely Connected Fusion Attention Networks for Real-World Person Re-Identification**  
-   Tariq Ali Arain, Pengcheng Zhang, Sehrish Mazhar, Qing Meng, Imran Ali Soomro  
+    <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Pengcheng Zhang, Sehrish Mazhar, Qing Meng, Imran Ali Soomro  
    *Image and Vision Computing*.
 
 4. **A Novel Multi-Objective Optimization Approach for Ticket Assignment in Large Data Centers**  
-   Tariq Ali Arain, Sehrish Mazhar  
+   <span style="color:#b22222;"><strong>Tariq Ali Arain*</strong></span>, Sehrish Mazhar  
    *Cluster Computing*, Accepted, 2026.
 
 ### Conference Papers
 
 5. **Multi-objective Optimization of Ticket Assignment Problem in Large Data Centers**  
-   Tariq Ali Arain, Xiangjie Huang, Zhicheng Cai, Jian Xu  
+    <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Xiangjie Huang, Zhicheng Cai, Jian Xu  
    *CCF Conference on Computer Supported Cooperative Work and Social Computing*, Springer Nature, 2021.
 
 6. **Optimizing Service Placement in Fog Environments with Deep Reinforcement Learning**  
-   Wei Liu, Qin Xie, Tariq Ali Arain, Usama Ali  
+   Wei Liu, Qin Xie,  <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Usama Ali  
    *ICSS 2025, Lecture Notes in Computer Science*, pp. 288--302, Springer Nature.
 
 7. **Efficient Workload Prediction Model for Containerized Cloud**  
-   Tianqi Xie, Yunfei Zhang, Changhong Tai, Tariq Ali Arain, Usama Ali  
+   Tianqi Xie, Yunfei Zhang, Changhong Tai,  <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Usama Ali  
    *ICSS 2025, Lecture Notes in Computer Science*, pp. 303--315, Springer Nature.
 
 8. **FedQR: Communication-Efficient Federated Learning via QR Factorization**  
-   Abdoul Fatakhou Ba, Yingchi Mao, Hamza Djigal, Abdullahi Uwaisu Muhammad, Tariq Ali Arain, Siaka Konate  
+   Abdoul Fatakhou Ba, Yingchi Mao, Hamza Djigal, Abdullahi Uwaisu Muhammad,  <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Siaka Konate  
    *ICONIP 2024, Lecture Notes in Computer Science*, pp. 433--448, Springer Nature.
 
 ---
+### Under Review / Ongoing Research
 
+9. **Beyond Benchmark Accuracy: A
+Robustness-Oriented Review of Occluded
+Person Re-Identification Under Structured
+Uncertainty**  
+  Sehrish Mazhar, <span style="color:#b22222;"><strong>Tariq Ali Arain*</strong></span>, Benish Mazhar.  
+   *Review manuscript, under preparation / under review.*
+
+10. **Occlusion-Disentangled Gated Attention Network for Person Re-Identification**  
+    <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span> et al.  
+    *Manuscript in preparation.*
+
+11. **From Distortion to Diffusion: A Survey of Image Watermark Removal Attacks**  
+    <span style="color:#b22222;"><strong>Tariq Ali Arain*</strong></span>, Sehrish Mazhar and Imran Ali Soomro.  
+    *Manuscript in preparation.*
+
+12. **USV Path Planning: A Comprehensive Review of Classical, Intelligent, and Learning-Based Methods**  
+    <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span> et al.  
+    *Review manuscript, 2025.*
 ## Technical Skills
 
 ### Deep Learning and Computer Vision
