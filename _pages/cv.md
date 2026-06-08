@@ -121,24 +121,34 @@ I am **Dr. Tariq Ali Arain**, a researcher in **deep learning, computer vision, 
 ---
 ### Under Review / Ongoing Research
 
-9. **Beyond Benchmark Accuracy: A
-Robustness-Oriented Review of Occluded
-Person Re-Identification Under Structured
-Uncertainty**  
-  Sehrish Mazhar, <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Benish Mazhar.  
-   *Review manuscript, under preparation / under review.*
+9. **A Novel Approach to Safe and Efficient USV Path Planning in Complex Environments**  
+   Sehrish Mazhar, <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Rizwan Badar Baloch, Nejib Ghazouani, Tariq Alqubaysi, Monji Mohamed Zaidi, Jahangir Badar  
+   *Scientific Reports* (Springer, SCIE)  
+   **Status:** Revision Submitted After Peer Review (2nd Round), April 2026  
+   **Role:** Second Author
 
-10. **Occlusion-Disentangled Gated Attention Network for Person Re-Identification**  
-    <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span> et al.  
-    *Manuscript in preparation.*
+10. **Beyond Benchmark Accuracy: A Robustness-Oriented Review of Occluded Person Re-Identification Under Structured Uncertainty**  
+   Sehrish Mazhar, <span style="color:#b22222;"><strong>Tariq Ali Arain*</strong></span>, Benish Mazhar  
+   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)* (IEEE, SCIE)  
+   **Status:** Under Peer Review (Submitted April 2026)  
+   **Role:** Corresponding Author
 
-11. **From Distortion to Diffusion: A Survey of Image Watermark Removal Attacks**  
-    <span style="color:#b22222;"><strong>Tariq Ali Arain*</strong></span>, Sehrish Mazhar and Imran Ali Soomro.  
-    *Manuscript in preparation.*
+11. **Occlusion-Disentangled Gated Attention Network for Person Re-Identification in Smart Surveillance Systems**  
+   <span style="color:#b22222;"><strong>Tariq Ali Arain*</strong></span>, Sehrish Mazhar  
+   *Information Fusion* (Elsevier, SCIE)  
+   **Status:** Under Peer Review (Submitted May 2026)  
+   **Role:** Corresponding Author
 
-12. **USV Path Planning: A Comprehensive Review of Classical, Intelligent, and Learning-Based Methods**  
-    <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span> et al.  
-    *Review manuscript, 2025.*
+12. **From Distortion to Diffusion: A Survey of Image Watermark Removal Attacks**  
+   <span style="color:#b22222;"><strong>Tariq Ali Arain*</strong></span>, Sehrish Mazhar, Imran Ali Soomro
+  *Image and Vision Computing* (Elsevier, SCIE) 
+  **Status:** Under Peer Review (Submitted June 8 2026)  
+
+14. **USV Path Planning: A Comprehensive Review of Classical, Intelligent, and Learning-Based Methods**  
+   Sehrish Mazhar, <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span> and Imran Ali Soomro.  
+   *Review Manuscript in Preparation*  
+   **Target Journal:** Ocean Engineering (Tentative)
+    **Role:** Corresponding Author
 ## Technical Skills
 
 ### Deep Learning and Computer Vision
