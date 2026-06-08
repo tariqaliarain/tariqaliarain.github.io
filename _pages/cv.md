@@ -85,7 +85,7 @@ I am **Dr. Tariq Ali Arain**, a researcher in **deep learning, computer vision, 
 ### Journal Articles
 
 1. **Swin Transformer with Attention Mechanism: A Novel Framework for Person Re-Identification**  
-   Tariq Ali Arain, Pengcheng Zhang, Qing Meng, Abdullahi Uwaisu Muhammad  
+  <span style="color:red;"><strong>Tariq Ali Arain</strong></span>, Pengcheng Zhang, Qing Meng, Abdullahi Uwaisu Muhammad  
    *Pattern Analysis and Applications*, 2025.
 
 2. **An Adaptive Cross-Resolution Network for Low-Resolution Person Re-Identification**  
