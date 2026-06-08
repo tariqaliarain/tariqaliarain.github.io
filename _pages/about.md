@@ -40,7 +40,7 @@ Dissertation: *Advanced Deep Learning Techniques for Person Re-Identification in
 
 <img src="/images/njust-logo.png" width="45" align="left" style="margin-right:12px">
 
-**Master of Engineering in Computer Science and Engineering**  
+**Master of Engineering in Computer Application Technology**  
 Nanjing University of Science and Technology, China  
 Thesis: *Research on the Optimization of Ticket Assignment Problem in Large Data Centers*
 
