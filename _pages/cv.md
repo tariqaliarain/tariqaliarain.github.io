@@ -89,7 +89,7 @@ I am **Dr. Tariq Ali Arain**, a researcher in **deep learning, computer vision, 
    *Pattern Analysis and Applications*, 2025.
 
 2. **An Adaptive Cross-Resolution Network for Low-Resolution Person Re-Identification**  
-   Tariq Ali Arain, Pengcheng Zhang, Sehrish Mazhar, Qing Meng  
+   <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Pengcheng Zhang, Sehrish Mazhar, Qing Meng  
    *International Journal of Pattern Recognition and Artificial Intelligence*.
 
 3. **FocusReID: Densely Connected Fusion Attention Networks for Real-World Person Re-Identification**  
