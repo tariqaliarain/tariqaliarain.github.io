@@ -5,32 +5,117 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h1>Publications</h1>
 
-{% include base_path %}
+<h2>Journal Articles</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h3>Swin Transformer with Attention Mechanism: A Novel Framework for Person Re-Identification</h3>
+<p>
+<span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Pengcheng Zhang, Qing Meng*, Abdullahi Uwaisu Muhammad. 2025.
+<br>
+<em>Pattern Analysis and Applications</em>, Vol. 28, Article 95. Springer Nature.
+<br>
+DOI: <a href="https://doi.org/10.1007/s10044-025-01466-1">10.1007/s10044-025-01466-1</a>
+</p>
 
+<h3>An Adaptive Cross-Resolution Network for Low-Resolution Person Re-Identification</h3>
+<p>
+<span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Pengcheng Zhang, Sehrish Mazhar, Qing Meng*. 2026.
+<br>
+<em>International Journal of Pattern Recognition and Artificial Intelligence</em>.
+<br>
+DOI: <a href="https://doi.org/10.1142/S021800142650014X">10.1142/S021800142650014X</a>
+</p>
 
+<h3>FocusReID: Densely Connected Fusion Attention Networks for Real-World Person Re-Identification</h3>
+<p>
+<span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Pengcheng Zhang, Sehrish Mazhar, Qing Meng*, Imran Ali Soomro. 2026.
+<br>
+<em>Image and Vision Computing</em>.
+<br>
+DOI: <a href="https://doi.org/10.1016/j.imavis.2026.106014">10.1016/j.imavis.2026.106014</a>
+</p>
 
+<h3>A Novel Multi-Objective Optimization Approach for Ticket Assignment in Large Data Centers</h3>
+<p>
+<span style="color:#b22222;"><strong>Tariq Ali Arain*</strong></span>, Sehrish Mazhar. 2026.
+<br>
+<em>Cluster Computing</em> (SCI).
+<br>
+<strong>Accepted on 6 June 2026.</strong>
+</p>
+
+<h2>Conference Papers</h2>
+
+<h3>Multi-objective Optimization of Ticket Assignment Problem in Large Data Centers</h3>
+<p>
+<span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Xiangjie Huang, Zhicheng Cai*, Jian Xu. 2021.
+<br>
+<em>CCF Conference on Computer Supported Cooperative Work and Social Computing</em>, Vol. 1492. Springer Nature.
+<br>
+DOI: <a href="https://doi.org/10.1007/978-981-19-4549-6_4">10.1007/978-981-19-4549-6_4</a>
+</p>
+
+<h3>FedQR: Communication-Efficient Federated Learning via QR Factorization</h3>
+<p>
+Abdoul Fatakhou Ba, Yingchi Mao, Hamza Djigal, Abdullahi Uwaisu Muhammad, <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Siaka Konate. 2024.
+<br>
+<em>ICONIP 2024, Lecture Notes in Computer Science</em>, pp. 433–448. Springer Nature.
+<br>
+DOI: <a href="https://doi.org/10.1007/978-981-96-6951-6_30">10.1007/978-981-96-6951-6_30</a>
+</p>
+
+<h3>Optimizing Service Placement in Fog Environments with Deep Reinforcement Learning</h3>
+<p>
+Wei Liu, Qin Xie, <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Usama Ali. 2025.
+<br>
+<em>ICSS 2025, Lecture Notes in Computer Science</em>, pp. 288–302. Springer Nature.
+<br>
+DOI: <a href="https://doi.org/10.1007/978-981-95-1581-3_18">10.1007/978-981-95-1581-3_18</a>
+</p>
+
+<h3>Efficient Workload Prediction Model for Containerized Cloud</h3>
+<p>
+Tianqi Xie, Yunfei Zhang, Changhong Tai, <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Usama Ali. 2025.
+<br>
+<em>ICSS 2025, Lecture Notes in Computer Science</em>, pp. 303–315. Springer Nature.
+<br>
+DOI: <a href="https://doi.org/10.1007/978-981-95-1581-3_19">10.1007/978-981-95-1581-3_19</a>
+</p>
+
+<h2>Manuscripts Under Review / Revision Submitted</h2>
+
+<h3>A Novel Approach to Safe and Efficient USV Path Planning in Complex Environments</h3>
+<p>
+Sehrish Mazhar, <span style="color:#b22222;"><strong>Tariq Ali Arain</strong></span>, Rizwan Badar Baloch, Nejib Ghazouani, Tariq Alqubaysi, Monji Mohamed Zaidi, Jahangir Badar.
+<br>
+<em>Scientific Reports</em> (Springer, SCIE).
+<br>
+<strong>Status:</strong> Revision submitted after peer review, 2nd round, 20 April 2026.
+<br>
+<strong>Role:</strong> Second Author.
+</p>
+
+<h3>Beyond Benchmark Accuracy: A Robustness-Oriented Review of Occluded Person Re-Identification Under Structured Uncertainty</h3>
+<p>
+Sehrish Mazhar, <span style="color:#b22222;"><strong>Tariq Ali Arain*</strong></span>, Benish Mazhar.
+<br>
+<em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em> (IEEE, SCIE).
+<br>
+<strong>Status:</strong> Under peer review. Submitted 7 April 2026.
+<br>
+<strong>Role:</strong> Corresponding Author.
+</p>
+
+<h3>Occlusion-Disentangled Gated Attention Network for Person Re-Identification in Smart Surveillance Systems</h3>
+<p>
+<span style="color:#b22222;"><strong>Tariq Ali Arain*</strong></span>, Sehrish Mazhar.
+<br>
+<em>Information Fusion</em> (Elsevier, SCIE).
+<br>
+<strong>Status:</strong> Under peer review. Submitted May 2026.
+<br>
+<strong>Role:</strong> Corresponding Author.
+</p>
+
+<p><small>* First author / corresponding author.</small></p>
