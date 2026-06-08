@@ -1,6 +1,7 @@
 ---
 title: "FocusReID: Densely Connected Fusion Attention Networks for Real-World Person Re-Identification"
 collection: publications
+category: manuscripts
 permalink: /publication/focusreid
 date: 2026-04-29
 venue: "Image and Vision Computing"
